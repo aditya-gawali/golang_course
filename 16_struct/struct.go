@@ -84,6 +84,6 @@ func main() {
 		customer: newCustomer,
 	}
 
-	fmt.Println(myOrder)
+	fmt.Println(myOrder.name)
 
 }
